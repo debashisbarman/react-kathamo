@@ -1,6 +1,6 @@
 {
-  "name": "kathamo",
-  "version": "1.0.0-alpha",
+  "name": "react-kathamo",
+  "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",
   "scripts": {
