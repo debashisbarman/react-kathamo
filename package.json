@@ -1,7 +1,7 @@
 {
   "name": "react-kathamo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Minimal setup for performance orientated, offline–first React.js applications.",
   "main": "webpack.config.js",
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack -p --mode production",

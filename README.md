@@ -1,6 +1,6 @@
-# Kathamo
+# React Kathamo
 
-Simple React Boilerplate.
+Minimal setup for performance orientated, offline–first React.js applications.
 
 ## Scripts
 
@@ -8,6 +8,12 @@ First install dependencies:
 
 ```sh
 npm install
+```
+
+To start the development server:
+
+```sh
+npm start
 ```
 
 To create a production build:
@@ -18,4 +24,4 @@ npm run build
 
 ## Running
 
-Open the file `build/index.html` in your browser
+App will be running on http://localhost:3000.
