@@ -4,7 +4,7 @@ import './styles.scss';
 
 ReactDOM.render(
   <div>Kathamo&mdash; Production Ready Minimal React Boilerplate</div>,
-  document.getElementById('root'),
+  document.getElementById('kathamo'),
 );
 
 if (process.env.NODE_ENV === 'production') {

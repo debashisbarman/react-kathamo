@@ -101,6 +101,7 @@ const config = {
       'Access-Control-Allow-Origin': '*',
     },
     historyApiFallback: true,
+    open: true,
   },
 };
 
